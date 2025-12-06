@@ -1,4 +1,4 @@
-![WatchStorm Repository Image](https://api.webstray.com/user/webstraycom/repository/watchstorm?customTitle=WatchStorm&borderRadius=40)
+![WatchStorm Repository Preview](https://api.webstray.com/starlight/user/webstraycom/repository/watchstorm?customTitle=WatchStorm&borderRadius=40)
 
 # WatchStorm
 
